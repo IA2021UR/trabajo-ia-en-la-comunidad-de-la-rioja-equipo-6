@@ -1,0 +1,7 @@
+Informe: 
+- Calidad del trabajo base: media.
+- Los notebooks no están documentados. 
+- Se prueban algoritmos de la librería semtorch.
+- Calidad de la presentación: media
+Nota sobre 10: 7.5
+Nota: 1.875
